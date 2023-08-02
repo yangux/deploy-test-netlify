@@ -87,3 +87,10 @@ footer {
   color: #aaa;
   text-align: center;
 }
+
+/* responsive */
+@media (max-width: 1000px) {
+  main video {
+    height: 100vh;
+  }
+}
